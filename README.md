@@ -8,4 +8,3 @@
 - **Redux Toolkit Query**
 - **Material UI Data Grid**
 - **Node.js**
-- **Prisma**
